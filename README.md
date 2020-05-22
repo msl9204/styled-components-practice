@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-\n Nomad Coder Demo
+
+<br>Nomad Coder Demo</br>
 
 ## Available Scripts
 
